@@ -1,11 +1,11 @@
-name: Xây Dựng Generic System Image
+name: huy 
 
 on:
   watch:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQ0OTg4MjAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjQxZDNmMWU5YjE0OWZmNzhlNmI3NjFjNGM4NDZkYmU3OTBjOGIzZTQxOTVkNmNlODVlNGJmYTk3ODUzOTNhODRjOTE3NDViNDkyMTc0YTA1M2ViNTEwZjE2OGZjYzYyNWNkZTVmNDdjMWVlOWIzODYxZjE4MDYwZjUwMzQ5ODNhIiwidCI6MTYxNTk5NzIzMSwic3RmcCI6IjM3YThkMjJkNjRhM2ViOWVlMjc5ZWI5NTQzY2NhNmRkIiwic3RpcCI6IjI0MDI6ODAwOjYxMzI6ZjFiOjYwNDc6MWMxNzpiMWFmOmU4M2MifQ.Y4-w1C3JUvRP6ZA-Rrhej2QiteCBKX8KQwrX-Bph_mg/Corvus_v14.5-Mutate-violet-Gapps-28022021-Official-0530.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
